@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1459026430 source:c:\users\gurip_000\desktop\verifica_expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
